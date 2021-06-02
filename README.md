@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aBugMansLife
+- 👋 Hi, I’m @aBugMansLife. I'm an Entomologist and award winning photogapher with a keen interest in programming and automation!
 - 👀 I’m interested in the automation of some enclusrures for the pets I keep using microcontrollers and programming long term timelapses with Rapsberry Pi Zero
 - 🌱 I’m currently learning microPython for Raspberry Pi Pico
 - 💞️ I’m looking to collaborate on enhaning the availabitiliy of micropython for the pet keeping hobby.
